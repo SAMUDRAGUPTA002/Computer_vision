@@ -1,1 +1,24 @@
+### 🧠 **Project Summary: Face Mask Detection using CNN**
+
+This project presents a deep learning-based solution to automatically detect whether a person is wearing a face mask or not, using a Convolutional Neural Network (CNN). The motivation for this project stems from the global COVID-19 pandemic, where face masks became a crucial preventive measure. Ensuring proper mask usage in public spaces is a challenging task that can be automated using computer vision.
+
+The model is trained on a binary image classification task using a dataset divided into two categories: **images of people wearing masks** and **images without masks**. The dataset is preprocessed by resizing all images to 150x150 pixels and normalized for better model performance.
+
+A custom CNN architecture is used, comprising:
+
+* Convolutional layers for feature extraction
+* MaxPooling layers for downsampling
+* Dense (fully connected) layers for classification
+
+The model uses **sigmoid activation** in the output layer for binary classification and is compiled with the **binary cross-entropy loss** function and the **Adam optimizer**.
+
+During training, the model achieves high accuracy on both training and validation sets, demonstrating its ability to generalize well. Accuracy and loss trends are plotted and saved for further analysis. The final trained model is saved as `mask_detector.model`.
+
+The project can be extended in various directions such as:
+
+* Real-time face mask detection using OpenCV and a webcam
+* Deployment as a web or mobile application using Flask, Streamlit, or TensorFlow Lite
+* Integration into surveillance systems for public monitoring
+
+This project is a practical example of how deep learning and computer vision can be used for real-world health and safety applications.
 
