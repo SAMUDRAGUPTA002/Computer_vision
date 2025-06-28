@@ -73,7 +73,7 @@ Ensure the dataset is preprocessed and split properly for training and validatio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SAMUDRAGUPTA002/face-mask-detection-cnn.git
+git clone https://github.com/SAMUDRAGUPTA002/face_mask_detection_cnn.git
 cd face-mask-detection-cnn
 ```
 
