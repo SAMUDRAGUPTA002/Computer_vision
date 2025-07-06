@@ -1,6 +1,6 @@
 # Computer_vision
 
-# 😷 Face Mask Detection using CNN
+(1)😷 Face Mask Detection using CNN
 
 This project uses a **Convolutional Neural Network (CNN)** to detect whether a person is **wearing a mask or not**, using image classification.
 
@@ -23,7 +23,7 @@ This project uses a **Convolutional Neural Network (CNN)** to detect whether a p
 * Model saved as `mask_detector.model`
 * Training plots in `plots/` folder
 
-🧬 Fetus Organ Detection (EDA + YOLO)
+(2)🧬 Fetus Organ Detection (EDA + YOLO)
 This project combines EDA and YOLO to analyze and detect fetal organ locations in medical images.
 
 🔍 Features
