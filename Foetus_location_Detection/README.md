@@ -24,8 +24,7 @@ This project involves identifying fetal organ locations using a combination of *
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/fetus-organ-yolo.git
-   cd fetus-organ-yolo
+   git clone https://github.com/SAMUDRAGUPTA002/Computer_vision/tree/c3def2b9066d14cd8dead5aab41a3fc534bc143e/Foetus_location_Detection
    ```
 
 2. **Install dependencies:**
