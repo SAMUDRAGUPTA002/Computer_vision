@@ -23,9 +23,21 @@ This project uses a **Convolutional Neural Network (CNN)** to detect whether a p
 * Model saved as `mask_detector.model`
 * Training plots in `plots/` folder
 
----
+🧬 Fetus Organ Detection (EDA + YOLO)
+This project combines EDA and YOLO to analyze and detect fetal organ locations in medical images.
 
-## 📄 License
+🔍 Features
+📊 Exploratory Data Analysis on fetal imaging data.
 
-MIT License
+🧠 YOLO-based object detection for organ localization.
+
+📦 Supports bounding box visualization and insights.
+
+🛠️ Tech Stack
+Python, Jupyter Notebook
+
+YOLOv5 / YOLOv8 (ultralytics)
+
+Pandas, NumPy, OpenCV, Matplotlib
+
 
